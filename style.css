@@ -1,16 +1,46 @@
-.back{
-  background-image: contain;
+.font {
+    font-family: verdana, Arial, Helvetica, sans-serif;
 }
 
-.logo{
-    
-    width: 100px;
+.back {
+    background-image: url(pattern.png);
+    background-color: rgb(15, 118, 192);
+
+    height: 200px;
+    width: 1450px;
+}
+
+.logo {
+    margin-right: 1000px;
+    width: 200px;
 }
 
 
-.evidenziata{
-    background-color:yellow;
+.evidenziata {
+    background-color: yellow;
 }
-.primo{
+
+.primo {
     background-color: aqua;
+    color: antiquewhite;
+}
+
+.secondo {
+    background-color: aqua;
+
+}
+
+.terzo {
+    background-color: aqua;
+
+}
+
+.footer {
+    color: gray;
+
+}
+
+.inizio {
+    color: gray;
+
 }
